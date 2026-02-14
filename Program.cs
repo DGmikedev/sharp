@@ -6,6 +6,8 @@ internal class Program
     {
 
         // Clase que encierra las primeras 10 calses del curso
+
+
         // Primera primera = new Primera();
         // primera.primeras10Clases();
 
@@ -17,8 +19,12 @@ internal class Program
         // CondicionalFor condicionalFor = new CondicionalFor();
         // condicionalFor.condicionalFor("El josé es demasiado largo para ponerlo en el programa");
 
+        // Clase con ciclo Switch
+        Switch sw = new Switch();
+        sw.iswtch("");
 
 
+        Console.ReadKey();
 
 
     }
